@@ -56,7 +56,7 @@ Ask the client context:
 3. Refresh requirements (real-time vs batch)
 4. Security model (RBAC roles needed)
 5. how many logical environments are needed?
-2) what edition of snowflake is this being built for?
+6.  what edition of snowflake is this being built for?
 ```
 
 ## Example Request
